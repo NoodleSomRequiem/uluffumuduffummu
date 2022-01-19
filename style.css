@@ -1,0 +1,78 @@
+
+
+
+
+
+body {
+    background-color: powderblue;
+    font-size: 18px;
+
+
+}
+
+
+h1, h2{
+    margin-top: 20px;
+    font-weight:normal;
+
+}
+
+nav {
+    background-color: cornflowerblue;
+    display:flex;
+    justify-content:space-evenly;
+    font-size:35px;
+
+
+}
+
+
+.imagegallery {
+    width:100%;
+    justify-content:space-between;
+}
+
+.imagegallery figure {
+    display:block;
+    margin:0;
+    width:30%;
+}
+
+.imagegallery img {
+    width:110%;
+    height:400px;
+    object-fit:cover;
+}
+
+
+
+header {
+
+    font-size:100px;
+    padding-top:5vh;
+    color: rgb();
+    text-align:center;
+    height:200px;
+    background-image:url();
+    background-size:cover;
+    background-position:center;
+
+}
+
+section {
+    background-color:cornflowerblue;
+    font-size: 1em;
+    width: 75%;
+    padding: 20px;
+    margin: 20px auto;
+    max-width:800px;
+    border-radius: 12px;
+}
+
+}
+
+footer {
+    background-color: cornflowerblue;
+
+
+}
